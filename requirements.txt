@@ -1,0 +1,4 @@
+jupyterlab
+nbmake
+pytest
+pytest-xdist
